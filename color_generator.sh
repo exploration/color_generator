@@ -9,4 +9,4 @@ cat all_colors.txt | \
 awk -F "\t" '{print $2}' | \
 
 # Make the things
-xargs -I xXx -P 4 ./hex_to_image.sh xXx "${SIZE}"
+xargs -I xXx -P 4 sh ./hex_to_image.sh xXx "${SIZE}"

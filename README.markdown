@@ -20,14 +20,14 @@ From a command line:
 
 ```bash
 # All the colors, defaults to 400x225
-./color_generator.sh
+sh ./color_generator.sh
 
 # All the colors, custom dimenstions
-./color_generator.sh 100x222
+sh ./color_generator.sh 100x222
 
 # Just one color
-./hex_to_image.sh '#FEFEFE'
+sh ./hex_to_image.sh '#FEFEFE'
 
 # Just one color, custom dimensions
-./hex_to_image.sh red 1200x5000
+sh ./hex_to_image.sh red 1200x5000
 ```
