@@ -4,7 +4,7 @@ Takes a list of colors in [this format](https://en.wikipedia.org/wiki/List_of_co
 
 ## Setup
 
-You'll want to install [ImageMagick](https://imagemagick.org/index.php). On Debian/Ubunut Linux + derivatives, this is `sudo apt install imagemagick`, on a Mac with [Homebrew](https://brew.sh/) it should be `brew install imagemagick`. On Windows, just install the [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and then do the Linux instructions :)
+You'll want to install [ImageMagick](https://imagemagick.org/index.php). On Debian/Ubuntu Linux + derivatives, this is `sudo apt install imagemagick`, on a Mac with [Homebrew](https://brew.sh/) it should be `brew install imagemagick`. On Windows, just install the [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and then do the Linux instructions :)
 
 ## Basic Usage
 
