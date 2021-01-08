@@ -8,6 +8,12 @@ The list of colors is the file `all_colors.txt`. You can edit the list to suit y
 
 You'll want to install [ImageMagick](https://imagemagick.org/index.php). On Debian/Ubuntu Linux + derivatives, this is `sudo apt install imagemagick`, on a Mac with [Homebrew](https://brew.sh/) it should be `brew install imagemagick`. On Windows, just install the [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and then do the Linux instructions :)
 
+Once you've done that, grab this repository with:
+
+```bash
+git clone https://github.com/exploration/color_generator && cd color_generator
+```
+
 ## Basic Usage
 
 From a command line:
